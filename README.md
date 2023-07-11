@@ -47,9 +47,9 @@ python main.py --do_test --text_pretrained_model roberta-base --fuse_model_type 
 
 |Feature| acc    |
 |---|--------|
-|OTE | 75.184 |
-|Text-only| 71.856 |
-|Imagine-only | 62.384 |
+|OTE | 0.735 |
+|Text-only| 0.692 |
+|Imagine-only | 0.732 |
 
 
 ### reference
